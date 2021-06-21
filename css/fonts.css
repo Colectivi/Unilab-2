@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'ALK Life';
+    src: url('../fonts/alk-life-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/alk-life-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/alk-life-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/alk-life-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/alk-life-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/alk-life-webfont.svg#alk_liferegular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Big Shoulders Stencil Display';
+    src: url('../fonts/BigShouldersStencilDisplay-Black.eot');
+    src: url('../fonts/BigShouldersStencilDisplay-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BigShouldersStencilDisplay-Black.woff2') format('woff2'),
+        url('../fonts/BigShouldersStencilDisplay-Black.woff') format('woff'),
+        url('../fonts/BigShouldersStencilDisplay-Black.ttf') format('truetype'),
+        url('../fonts/BigShouldersStencilDisplay-Black.svg#BigShouldersStencilDisplay-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}

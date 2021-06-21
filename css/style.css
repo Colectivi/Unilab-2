@@ -1,0 +1,28 @@
+
+h4{font-size: 20px;}
+p{font-size: 16px;}
+.container,img,.text-container{
+    display: inline-block;
+}
+.ge-text2{
+    font-family: 'ALK Life';
+}
+.ge-text1{
+    font-family: "ALKDots";
+}
+.eng-text2{
+    font-family: 'Big Shoulders Stencil Display';
+}
+.eng-text1{
+    font-family: 'Viaoda Libre';
+}
+.container{
+    margin-top: 20px;
+}
+.text-container{
+    width: 929px;
+}
+.second{
+    margin-top: 144px;
+    margin-bottom: 150px;
+}
